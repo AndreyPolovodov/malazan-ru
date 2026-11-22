@@ -2,6 +2,8 @@
 
 Перевод на русский язык компендиума [Malazan Book of the Fallen Compendium](https://highnessatharva.github.io/Malazan-Compendium/) (составитель — Atharva Shah), который собран из материалов [Malazan Reread of the Fallen](https://reactormag.com/series/malazan-reread-of-the-fallen/) (Bill Capossere, Amanda Rutter, Tor.com / Reactor).
 
+Перевод выполнен **Claude** (ИИ-модель компании Anthropic) в Claude Code. Это машинный перевод с редактурой по ходу работы, поэтому возможны неточности — исправления приветствуются.
+
 Имена и названия даны по переводам издательства «Эксмо» — см. [словарь](_словарь.md).
 
 ## Книги
