@@ -1,0 +1,17 @@
+# Малазанская книга павших — краткое содержание по главам (перевод на русский)
+
+Перевод на русский язык компендиума [Malazan Book of the Fallen Compendium](https://highnessatharva.github.io/Malazan-Compendium/) (составитель — Atharva Shah), который собран из материалов [Malazan Reread of the Fallen](https://reactormag.com/series/malazan-reread-of-the-fallen/) (Bill Capossere, Amanda Rutter, Tor.com / Reactor).
+
+Имена и названия даны по переводам издательства «Эксмо» — см. [словарь](_словарь.md).
+
+## Книги
+
+1. [Сады Луны](01%20Сады%20Луны.md)
+2. [Врата Мёртвого дома](02%20Врата%20Мёртвого%20дома.md) — в работе
+3. Память льда — в планах
+4. Дом Цепей — в планах
+5. Полночный прилив — в планах
+
+## Лицензия
+
+Исходный текст распространяется по лицензии Creative Commons BY-SA; перевод распространяется на тех же условиях ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Неофициальный фанатский перевод, не связан ни с Tor, ни со Стивеном Эриксоном.
